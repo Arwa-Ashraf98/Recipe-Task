@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecipesTask</string>
+    <string name="image">image</string>
+    <string name="calories">Calories :</string>
+    <string name="name">Name :</string>
+    <string name="description">Description :</string>
+    <string name="fats">Fats :</string>
+    <string name="proteins">Proteins :</string>
+    <string name="difficulty">Difficulty :</string>
+    <string name="noInternet">No Intent Connection Please Check your Connection and Try Again Later</string>
+    <string name="no_internet_2">no Internet</string>
+</resources>
